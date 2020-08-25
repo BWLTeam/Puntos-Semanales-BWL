@@ -1,4 +1,4 @@
-<center><img src="./img/1.jpg" alt="BWL Logo" width="200"/></center>
+<p align="center"><img src="./img/1.jpg" alt="BWL Logo" width="200"/></p>
 
 # Puntos-Semanales-BWL
 
