@@ -36,11 +36,4 @@ Por hacer al menos un tweet en el día correspondiente se le otorgará 1 punto.
 | Mafer | Fabio | Juan | Jonathan | Jesús | Rosana | Gia
 | --- | --- | --- | --- | --- | --- | -- |
 Lunes | Martes | Miércoles | Jueves | Viernes | Sábado | Domingo | 
-
-- [x] Mafer
-- [ ] Fabio
-- [ ] Juan
-- [x] Jonathan
-- [ ] Jesús
-- [ ] Rosana
-- [ ] Gia
+| | | | | | | |
