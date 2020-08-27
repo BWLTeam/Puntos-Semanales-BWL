@@ -12,20 +12,33 @@ En este repositorio se va a manejar todo lo referente a los puntajes de los inte
 
 ## Puntos Individuales:
 
-| Nombre | :smile: Puntos | Badges |
+| Nombre | :smile: Puntos |  |
 |---|---|---|
-| Gianni | 0 pts| :open_file_folder: :green_heart:
-| Rosana | 0 pts| :dollar: :blue_heart:
-| Mafer | 0 pts| :mega: :green_heart:
-| Juan Diego | 0 pts | :chart_with_upwards_trend: :blue_heart:
-| Jonathan | 0 pts| :orange_book: :purple_heart:
-| Fabio | 0 pts| :computer: :green_heart:
-| Jesús | 0 pts| :satellite: :green_heart:
+| Gianni | 0 pts| :house: Admin Sala BWL
+| Rosana | 0 pts| :dollar: Coord. Finanzas
+| Mafer | 0 pts| :mega: Relaciones Públicas
+| Juan Diego | 0 pts | :chart_with_upwards_trend: Coord. Proyectos
+| Jonathan | 0 pts| :orange_book: Coord. Educación
+| Fabio | 0 pts| :computer: Admin Sala 015
+| Jesús | 0 pts| :satellite: Tecnología y Telecom
 
 ---
 ## Proyectos de la Semana
 
-| Nombre | Puntos | Temas | Link | Quien terminó |
+| Nombre | Puntos | Temas | Link | Quién terminó |
 |---|---|---|---|---|
-| Git Básico Challenge | 5 | Git, Markdown | [url](url) | @MaferMazu |
-|Nombre|Puntos|Tema|[url](url)|Nombres|
+| Git and Readme Challenge | 5 | Git, Markdown | [click aquí](https://github.com/BWLTeam/git-and-readme-challenge) | @MaferMazu |
+|NombreEjemplo|Puntos|Tema|[url](url)|...|
+
+## Twitter Points
+Por hacer al menos un tweet en el día correspondiente se le otorgará 1 punto.
+
+| Día | Creador |
+| --- | --- |
+Lunes | Mafer
+Martes | Fabio
+Miércoles | Juan
+Jueves | Jonathan
+Viernes | Jesús
+Sábado | Rosanna
+Domingo | Gia 

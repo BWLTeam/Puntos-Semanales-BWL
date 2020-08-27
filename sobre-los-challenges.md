@@ -6,8 +6,6 @@
   * [Participación en los Challenges](#participaci-n-en-los-challenges)
     + [Sobre la participación](#sobre-la-participaci-n)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 
 ## Crear Challenges
 
@@ -35,9 +33,9 @@ La idea es crear pequeños challenge pero que nos enseñen algo.
 
 ## Reglas de Creación de Challenge
 
-1. Para crear un challenge se debe hacer en la organización de BWLTeam. Puede ser público o privado (aunque sería interesante que pueda ser público para compartirlo en twitter).
+1. Para crear un challenge se debe hacer en la organización de [BWLTeam](https://github.com/BWLTeam). Puede ser público o privado (aunque sería interesante que pueda ser público para compartirlo en twitter si hacemos challenges cools).
 
-2. Se debe agregar a la sección de [Proyectos de la Semana](url) que está en el [README.md](./README.md)
+2. Se debe agregar a la sección de [Proyectos de la Semana](https://github.com/BWLTeam/Puntos-Semanales-BWL#proyectos-de-la-semana) que está en el [README.md](./README.md)
 
 3. Dentro del repositorio del challenge debe haber un readme que diga la duración aproximada del reto, explique de forma clara y específica la actividad, además debe tener recursos gratis que ayuden a guiar a los usuarios a resolver el problema y debe entenderse la forma de comprobar que se ha hecho el reto o no.
 
@@ -47,7 +45,7 @@ La idea es crear pequeños challenge pero que nos enseñen algo.
 
 6. Al finalizar cada semana se hará una votación anónima para ver que challenge de la semana fue más interesante. Y se le dará 3 puntos al creador de ese challenge.
 
-Ejemplo de challenge: [url](url)
+:pushpin: Ejemplo de challenge: [git-and-readme-challenge](https://github.com/BWLTeam/git-and-readme-challenge)
 
 ## Participación en los Challenges
 
@@ -68,7 +66,10 @@ Acuerdate de registrarlo en el [README.md](./README.md) en la sección de proyec
 | Mafer | Gianni |
 | Juan | Rosana |
 | Jonathan | Mafer |
+| Gia | Jonathan |
+| Fabio | Jesús |
+| Rosana | Juan |
 
 ## ¿Quieres ver los challenge disponibles?
 
-[Click Aquí](./README.md) :tada:
+[Click Aquí](https://github.com/BWLTeam/Puntos-Semanales-BWL#proyectos-de-la-semana) :tada:
