@@ -33,12 +33,12 @@ En este repositorio se va a manejar todo lo referente a los puntajes de los inte
 ## Twitter Points
 Por hacer al menos un tweet en el día correspondiente se le otorgará 1 punto.
 
-| Día | Creador | Listo |
-| --- | --- | --- |
-Lunes | Mafer | - [ ] |
-Martes | Fabio | - [ ] |
-Miércoles | Juan | - [ ] |
-Jueves | Jonathan | - [ ] |
-Viernes | Jesús | - [ ] |
-Sábado | Rosanna | - [ ] |
-Domingo | Gia | - [ ] |
+| Día | Creador |
+| --- | --- | 
+Lunes | Mafer | 
+Martes | Fabio | 
+Miércoles | Juan | 
+Jueves | Jonathan | 
+Viernes | Jesús | 
+Sábado | Rosanna |
+Domingo | Gia | 
